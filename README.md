@@ -13,3 +13,5 @@ Description of files:
 
 - cnn.py : Script that fits a convolutional neural network to the time series data 
           (the code has room for improvment)
+          
+I am currently working on applying holt-winters models as well as RNNs for the forecasting task.
